@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive coding and web development
 - 🌱 I’m currently pursuing CSE in IIT DHANBAD
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me vikasyamsani021203@gmail.com
 
 <!---
 vikas021203/vikas021203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
